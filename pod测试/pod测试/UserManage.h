@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "Singleton.h"
+#import <UIKit/UIKit.h>
 
 
 @interface UserManage : NSObject
