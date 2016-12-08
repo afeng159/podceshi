@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.license              = { :type => "MIT", :file => "LICENSE" }
     s.author             = { "afeng159" => "424425549@qq.com" }
 
-    s.source       = { :git => "https://github.com/afeng159/podceshi.git", :tag => s.version }
+    s.source       = { :git => "https://github.com/afeng159/podceshi.git", :tag => "1.0.0" }
     s.source_files  = "UserManage/*.{h,m}"
     s.framework  = 'Foundation'
     s.requires_arc = true
